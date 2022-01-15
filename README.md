@@ -1,6 +1,6 @@
 # Banco Digital
 
-Projeto desenvolvido para o [Criando um Banco Digital com Java e Orientação a Objetos](https://web.dio.me/lab/criando-um-banco-digital-com-java-e-orientacao-objetos/learning/1f5144ac-ae5d-4a25-a8cd-dd36cdbd0809).
+Projeto desenvolvido para o para o desafio de projeto [Criando um Banco Digital com Java e Orientação a Objetos](https://web.dio.me/lab/criando-um-banco-digital-com-java-e-orientacao-objetos/learning/1f5144ac-ae5d-4a25-a8cd-dd36cdbd0809).
 
 O projeto trata-se de um exercício de Java e Orientação a Objetos, no qual foi desenvolvido um Banco Digital. Foi mapeado Interface e Classes para representar dois tipos de conta (Corrente e Poupança). Além de uma classe Cliente e Banco. 
 
